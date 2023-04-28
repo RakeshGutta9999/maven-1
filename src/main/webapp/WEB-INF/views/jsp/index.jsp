@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Project by Emexo111</h2>
-			<h3>Contact me aws training</h3>
+			<h2>Project by Rakesh</h2>
+			<h3>VIT-AP</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; SAI 2023</p>
+		<p>&copy; RAKESH 2023</p>
 	</footer>
 </div>
 
